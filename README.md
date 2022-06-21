@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Meerfadi
 - 👀 I’m interested in Full Stack Webdevelopment
-- 🌱 I’m currently learning PHP (OOP) & Laravel.
+- 🌱 I’m currently learning JS & Its Frameworks.
 - 💞️ I’m looking to collaborate on the projects related to Front-End Technologies because i am certainly good at it, and also want to learn new technologies while working on a projects.
 - 📫 Contact me on Gmail: ( ubm.fahad590@gmail.com )
-- 
